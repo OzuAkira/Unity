@@ -15,6 +15,7 @@ public class PlayerMove : MonoBehaviour
     public GameObject BulletObj;
     public GameObject wall_1;
     public GameObject wall_2;
+    public vector2 new_velocity;
 
     // bool w_cld = false;
     // bool h_cld = false;
