@@ -1,0 +1,2 @@
+EnemyShot E_shotscript = createObj.GetComponent<EnemyShot>();
+          E_shotscript.Init(shot_angle,1);
